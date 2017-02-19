@@ -1,1 +1,1 @@
-WrapperClass.click(driver, By.id("loginButton");
+WrapperClasses.click(driver, By.id("loginButton");
